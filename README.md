@@ -71,3 +71,7 @@ This project is inspired by the need for effective bug tracking in software deve
 ---
 
 Feel free to modify any sections to better suit your project's specifics or your preferences!
+
+![Screenshot 2024-10-13 194737](https://github.com/user-attachments/assets/9e42a371-f5b6-4851-a6fc-83368b02cbcb)
+![Screenshot 2024-10-13 194722](https://github.com/user-attachments/assets/88233de2-2fc1-484a-8a4f-e11f58c1c86b)
+![Screenshot 2024-10-13 194654](https://github.com/user-attachments/assets/ee342b43-2941-4a16-875f-a105c91cc341)
